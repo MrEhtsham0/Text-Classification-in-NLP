@@ -1,0 +1,7 @@
+nltk
+gensim
+os
+pandas
+numpy
+plotly
+matplotlib
